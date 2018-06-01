@@ -2,7 +2,7 @@ package abstractionConcepts;
 
 public class BMW implements Car{
 
-	@Override //it is not compulsory to write override.
+	@Override //It is not compulsory to write override.
 	public void start() {
 		System.out.println("BMW----start");
 		

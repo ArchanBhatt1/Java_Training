@@ -7,7 +7,7 @@ public abstract class Bank { //Abstract means Hiding the implementation logic - 
 	//1. Abstract class should have at least 1 method which is abstract in nature.(Only method prototype No body)
 	//2. Abstract class can have non abstract methods as well.
 	//3. Can not instantiate the object of Abstract class.
-	//4. Performance wise abstract classes are faster than interfaces
+	//4. Performance wise abstract classes are faster than interfaces.
 	
 	public abstract void loan(); //---abstract method -- no body
 	
